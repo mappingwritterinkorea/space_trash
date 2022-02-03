@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <title>space1 - 지구 </title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.html">스페이스 카우보이</a><h2>
+  <ol>
+    <li><a href="space1.html">지구</a></li>
+    <li><a href="space2.html">화성</a></li>
+    <li><a href="space3.html">모세스 인공항법세스템</a></li>
+  </ol>
+
+
+  <h2 style="font-size:120px;">See you space cowboy</h2>
+
+  <p><strong>무수한 인터넷 세상에서의 살아가는 삶은 <u><a href="https://www.youtube.com/watch?v=CieOVqtnzW8" target="_bank">우주</a></u>에서 살아가는 삶과 같다.</strong> 카우보이와 같은 삶을 살면서 비밥호를 타는, 스파이크와의 동료인 나를 웹에 표현한다.</p>
+
+  <p>왜 사람들은 자유를 바라면서 구속되는 것인가? 그건 인간의 범위가 더 이상 늘어니지 않기 떄문이다.</p>
+
+  <p>달은 과연 우리를 품어줄 수 있을 것인가? 가이아가 품어줬던 우리의 지구임에도 우리는 어머니의 품에서 벗어나기 위해 몸부림친다. 달의 모습에서 우리를 느낄 수 있는가?</p>
+</body>
+</html>
